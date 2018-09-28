@@ -16,4 +16,5 @@ unityで動きを確認するための仮モデルです。
 
 
 # らごぱすたん
+U.E.C.wingsのオリジナルキャラクター
 http://www.uecwings.club.uec.ac.jp/blog/lagopus
